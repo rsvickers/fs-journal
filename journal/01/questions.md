@@ -1,6 +1,6 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > | ANSWER HERE |
+    > |lets us work from our own computer but be able to save it so others can work on it, as well as be able to continue to work on a project if the main computer is lost. Basically like uploading to the cloud but for code. |
 
 02. In the terminal, what is the command `mkdir` used for?
     > | make directory |
@@ -9,10 +9,10 @@
     > | ANSWER HERE |
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > | how something is applied if there are similar elements with different values |
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > | Because then nothing would be important. |
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
@@ -22,7 +22,7 @@
         }
     ```
 
-    > | ANSWER HERE |
+    > | the h1 element, the color with the : and the actual color; |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
     > | ANSWER HERE |
