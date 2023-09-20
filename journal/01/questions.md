@@ -25,7 +25,7 @@
     > | the h1 element, the color with the : and the actual color; |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > | a good design is more appealing to the eye and shows that the person who created the website cares about what they are showing. |
 
 08. What is the purpose of ***wireframing***?
     > | ANSWER HERE |
