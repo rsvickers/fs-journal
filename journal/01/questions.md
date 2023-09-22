@@ -6,7 +6,7 @@
     > | make directory |
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
-    > | ANSWER HERE |
+    > | these classes helps specialize an element. Ones that I think we are going to use the most are hover and link tags.|
 
 04. What is ***specificity*** and how might you use it to your benefit?
     > | how something is applied if there are similar elements with different values |
@@ -28,13 +28,13 @@
     > | a good design is more appealing to the eye and shows that the person who created the website cares about what they are showing. |
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > | the purpose is to get a rough draft of what you want the website layout to look like. |
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > | With the use of bootstrap I think it is worth the time, energy and effort because it gives layout of what to do when you actually get to code. |
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > | it allows everything in the flex property to move around but stay similar to everything around it.|
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > | height and width |
