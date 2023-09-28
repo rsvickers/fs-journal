@@ -9,7 +9,12 @@
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > | It is an acronym to improve the quality of the software.
+    stands for S = single responsibility principle
+    O = open-closed principle
+    L = Liskov substitution principle
+    I = Interface segregation principle
+    D = Dependency inversion principle |
 
 04. Given this array: How could you remove the `pineapple`?
 
@@ -34,7 +39,7 @@
     }
     ```
 
-    > | you.friends + them.friends |
+    > | if you read this. please help me:) |
 
 06. Give an example of a JavaScript `Conditional`:
 
@@ -42,16 +47,18 @@
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > |  |
+    > | parameters are the made up words while the arguments are the actual values. |
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > | set break points or comment out certain code |
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    > | primitive values are only stored in a variable. while reference values are stored in the memory and can constantly be referenced.  |
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+    > | for (let i = -100; i <= 100; i++) {
+    console.log(i)
+} |
