@@ -37,9 +37,11 @@
         hair: false,
         friends: []
     }
+
     ```
 
-    > | if you read this. please help me:) |
+ | you.friends.push(them)
+    them.friends.push(you) |
 
 06. Give an example of a JavaScript `Conditional`:
 
