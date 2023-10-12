@@ -1,7 +1,7 @@
 # Understanding Asynchronous Code, and API's
 01. What is the difference between `asynchronous` code and `synchronous` code?
 
-  > | ANSWER HERE |
+  > | Synchronous code has one statement and waits for to finish before moving on. Asynchronous allows you to have multiple functions that run at the same time. |
 
 02. What is an event listener?
 
@@ -9,7 +9,7 @@
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
-  > | ANSWER HERE |
+  > | REST stands for representational state transfer.  |
 
 04. What is a callback / higher order function?
 
@@ -25,11 +25,11 @@
 
 07. What does the `API` acronym stand for?
 
-  > | ANSWER HERE |
+  > | Application programming interface |
 
 08. What must you do in order to `await` a promise inside of a function?
 
-  > | ANSWER HERE |
+  > | Have an async beforehand. |
 
 09. What is the purpose of encapsulation in programming?
 
@@ -37,8 +37,8 @@
 
 10. What is `HTTP` response code for a successful request?
 
-  > | ANSWER HERE |
+  > | 200 |
 
 11. What is a 400 error?
 
-  > | ANSWER HERE |
+  > | Means something went wrong and its not working. |
