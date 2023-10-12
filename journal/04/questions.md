@@ -5,7 +5,7 @@
 
 02. What is an event listener?
 
-  > | ANSWER HERE |
+  > | A dude that lives inside the computer that stares at a keyword and draws the function whenever the keyword is used. |
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
@@ -13,15 +13,15 @@
 
 04. What is a callback / higher order function?
 
-  > | ANSWER HERE |
+  > | A function that is passed to another function with the hopes and dreams that the other function will call it. |
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
-  > | ANSWER HERE |
+  > | a promise is a returned value that is promised to happen eventually. you need to await the function that returns the promise so you do not get an error. |
 
 06. Name three processes used to make requests over `HTTP`?
 
-  > | ANSWER HERE |
+  > | Get, Post, Put, Delete (I am a overachiever) |
 
 07. What does the `API` acronym stand for?
 
@@ -33,7 +33,7 @@
 
 09. What is the purpose of encapsulation in programming?
 
-  > | ANSWER HERE |
+  > | Makes it so that data is not bundled up with data that is not pertained to it. Helps with security. |
 
 10. What is `HTTP` response code for a successful request?
 
