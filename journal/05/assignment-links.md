@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/rsvickers/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/rsvickers/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/rsvickers/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/rsvickers/<ASSIGNMENT_REPO>)**
+* **[Repo](https://github.com/rsvickers/burgerShack)**
+* **[Repo](https://github.com/rsvickers/gregslist_node)**
+* **[Repo](https://github.com/rsvickers/Planets)**
+
