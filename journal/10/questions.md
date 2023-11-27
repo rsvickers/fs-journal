@@ -1,7 +1,7 @@
 # CSharp and SQL Fundamentals
 01. What is the purpose of a `namespace`?
 
-  > | ANSWER HERE |
+  > | How the module system works with .Net or the C# convection. It is similar to export that we used before. |
 
 02. What is the difference between a `class` and an `interface`?
 
